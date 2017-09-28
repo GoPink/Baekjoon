@@ -4,6 +4,6 @@ BackTracking : Q2267
 
 DP : Q2579
 
-BFS : 
+BFS : Q1260
 
-DFS : 
+DFS : Q1260
